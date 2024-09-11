@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-08-14T15:56:41.268707400Z</date>
+  <millis>1723651001268</millis>
+  <nanos>707400</nanos>
+  <sequence>0</sequence>
+  <logger>gui.SignIn</logger>
+  <level>WARNING</level>
+  <class>gui.MemberAttendance</class>
+  <method>btn_printActionPerformed</method>
+  <thread>17</thread>
+  <message>java.io.FileNotFoundException: src\reports\daily_users.jasper</message>
+</record>
+<record>
+  <date>2024-08-14T15:56:45.835519300Z</date>
+  <millis>1723651005835</millis>
+  <nanos>519300</nanos>
+  <sequence>1</sequence>
+  <logger>gui.SignIn</logger>
+  <level>WARNING</level>
+  <class>gui.MemberAttendance</class>
+  <method>btn_printActionPerformed</method>
+  <thread>17</thread>
+  <message>java.io.FileNotFoundException: src\reports\daily_users.jasper</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-08-14T16:18:29.612050100Z</date>
+  <millis>1723652309612</millis>
+  <nanos>50100</nanos>
+  <sequence>0</sequence>
+  <logger>gui.SignIn</logger>
+  <level>WARNING</level>
+  <class>gui.MemberAttendance</class>
+  <method>btn_printActionPerformed</method>
+  <thread>17</thread>
+  <message>java.io.FileNotFoundException: src\reports\daily_users.jasper</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
